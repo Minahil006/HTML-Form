@@ -1,0 +1,286 @@
+.box{
+    background-color: lightgray;
+    padding: 25px;
+    margin-top: 60px ;
+    margin-left: 100px;
+    width: 1050px;
+    height: 500px;
+}
+.sign{
+    font-size: 30px;
+    color: blue;
+    margin-left: 200px;
+    margin-top: -550px;
+}
+.borderline
+{
+    border-bottom: 2px solid darkgray;
+    width: 1100px;
+    margin-left: 100px;
+    
+}
+.box1
+{
+    border: 2px solid grey;
+    padding:  0em 1em;
+    border-radius: 12px;
+    font-size: 10px;
+    line-height: 2;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 30px;
+    background-color: white;
+}
+.box2
+{
+    border: 2px solid blue;
+    padding:  0em 1em;
+    border-radius: 12px;
+    font-size: 10px;
+    line-height: 2;
+    width: 400px;
+    margin-left: 180px;
+    margin-top: 40px;
+    background-color: white;
+    font-family: Arial;
+}
+.fp{
+    font-size: 20px;
+    color: gray;
+    margin-left: 190px;
+    margin-top: 30px;
+}
+.c{
+    font-size: 20px;
+    color: blue;
+    margin-left: 350px;
+    margin-top: -43px;
+}
+.button
+{
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.container
+{
+    position: absolute;
+    top:450px;
+    left:190px;
+
+}
+.login{
+    font-size: 20px;
+    color: white;
+     position:absolute;
+    left: 230px;
+    top: 435px;
+}
+.sp{
+    font-size: 20px;
+    color: gray;
+    margin-left: 350px;
+    margin-top: 35px;
+}
+.rp{
+    font-size: 20px;
+    color: gray;
+    margin-left: 350px;
+    margin-top: -15px;
+}
+.button1
+{
+    font-size: 15px;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border-color: grey;
+    background-color: white;
+    height: 25px;
+}
+.container1
+{
+    position: absolute;
+    top:445px;
+    left:520px;
+
+}
+.button2
+{
+    font-size: 15px;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: blue;
+    height: 25px;
+}
+.container2
+{
+    position: absolute;
+    top:474px;
+    left:520px;
+
+}
+.borderline2
+{
+    border-bottom: 2px solid darkgray;
+    width: 1100px;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+.dp{
+    font-size: 20px;
+    color: gray;
+    margin-left: 350px;
+    margin-top: 20px;
+}
+.ps{
+    font-size: 20px;
+    color: blue;
+    margin-left: 500px;
+    margin-top: -43px;
+}
+.dp1{
+    font-size: 20px;
+    color: gray;
+    margin-left: 650px;
+    margin-top: -400px;
+}
+.facebookbutton{
+    padding:25px 75px;
+    border-radius:9px;
+    border-color:white;
+    background-color:white;
+    }
+    .facebookcontainer{
+    position:absolute;
+    top:250px;
+    left:690px;
+    }
+    .image{
+        position:absolute;
+        top:260px;
+        left:700px;
+        }
+        
+        .fbtext{
+        font-size:22px;
+        position:absolute;
+        top:240px;
+        left:730px;
+        }
+
+        .twitterbutton{
+            padding:25px 75px;
+            border-radius:9px;
+            border-color:white;
+            background-color:white;
+            }
+            .twittercontainer{
+            position:absolute;
+            top:250px;
+            left:850px;
+            }
+            .image1{
+                position:absolute;
+                top:260px;
+                left:860px;
+                }
+                
+                .ttext{
+                font-size:22px;
+                position:absolute;
+                top:240px;
+                left:890px;
+                }
+                .googlebutton{
+                    padding:25px 75px;
+                    border-radius:9px;
+                    border-color:white;
+                    background-color:white;
+                    }
+                    .googlecontainer{
+                    position:absolute;
+                    top:250px;
+                    left:1010px;
+                    }
+                    .image2{
+                        position:absolute;
+                        top:260px;
+                        left:  1025px;
+                        }
+                        
+                        .gtext{
+                        font-size:22px;
+                        position:absolute;
+                        top:240px;
+                        left:1060px;
+                        }
+                        .dp2{
+                            font-size: 20px;
+                            color: gray;
+                            margin-left: 690px;
+                            margin-top: 100px;
+                        }
+
+                        .rightbox {
+
+                            padding:25px 200px;
+                            border-radius:9px;
+                            border-color:red;
+                            background-color:white;
+                            }
+                            
+                            .rightcontainer{
+                            position:absolute;
+                            top:355px;
+                            left:690px;
+                            }
+                            
+                            .rightboxtext{
+                            font-size:20px;
+                            position:absolute;
+                            top:365px;
+                            left:700px;
+                            color:grey
+                            }
+
+                            .gobutton{
+                                padding:17px 17px;
+                                border-radius:9px;
+                                border-color:white;
+                                background-color:blue;
+                                }
+                                .gocontainer{
+                                position:absolute;
+                                top:370px;
+                                left:1035px;
+                                }
+                                
+                                .rightextdown{
+                                font-size:15px;
+                                position:absolute;
+                                top:420px;
+                                left:690px;
+                                color:grey;
+                                }
+
+                                .vl {
+                                    border-left: 2px solid white;
+                                    height: 300px;
+                                    position:absolute;
+                                    top:210px;
+                                    left:650px;
+                                  }
+
+                                
+
+
